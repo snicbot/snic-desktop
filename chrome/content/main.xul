@@ -4,7 +4,7 @@
 
 <window id="main" title="My App" width="300" height="300" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 
-  <script type="application/javascript" src="chrome://myapp/content/main.js"/>
+  <script type="application/javascript" src="chrome://snic/content/main.js"/>
 
   <caption label="Hello World"/>
   <separator/>

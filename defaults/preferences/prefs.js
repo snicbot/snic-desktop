@@ -1,4 +1,4 @@
-pref("toolkit.defaultChromeURI", "chrome://myapp/content/main.xul");
+pref("toolkit.defaultChromeURI", "chrome://snic/content/main.xul");
 
 /* debugging prefs, disable these before you deploy your application! */
 pref("browser.dom.window.dump.enabled", true);
