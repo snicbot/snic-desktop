@@ -1,3 +1,7 @@
+#XULRunner
+xulrunner/
+xulrunner-stub.exe
+
 # Logs
 logs
 *.log
